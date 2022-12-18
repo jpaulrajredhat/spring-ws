@@ -1,0 +1,10 @@
+com/springws/springsoap/gen/Currency.class
+com/springws/springsoap/WebServiceConfig.class
+com/springws/springsoap/gen/GetCountryRequest.class
+com/springws/CountryRepository.class
+com/springws/App.class
+com/springws/springsoap/gen/GetCountryResponse.class
+com/springws/springsoap/gen/package-info.class
+com/springws/springsoap/gen/Country.class
+com/springws/springsoap/gen/ObjectFactory.class
+com/springws/CountryEndpoint.class
